@@ -1,0 +1,8 @@
+{
+  "name": "Chibi Studio",
+  "description": "Biến ảnh chân dung thành tranh Chibi dễ thương.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
