@@ -1,34 +1,48 @@
-# 🎨 Chibi Studio – AI tạo ảnh Chibi từ chân dung
+<!-- Banner / Logo tùy thêm sau -->
+<h1 align="center">🎨 Chibi Studio</h1>
+<p align="center"><b>AI biến ảnh thật thành nhân vật Chibi Anime</b></p>
 
-Chibi Studio là ứng dụng AI cho phép người dùng tải ảnh chân dung và chuyển nó thành phong cách **Chibi Anime** dễ thương. Dự án kết hợp:
-
-- Google **Gemini AI**
-- Web UI tối ưu UX/UI
-- Proxy backend ẩn API key
-- Triển khai dễ dàng trên hosting phổ thông (Spaceship, cPanel) hoặc nền tảng serverless hiện đại
+<p align="center">
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="24" /> Powered by Gemini AI
+  &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="24" /> Web Frontend
+  &nbsp;•&nbsp;
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="24" /> Proxy Backend
+</p>
 
 ---
 
-## 🚀 Tính năng nổi bật
+## 🧬 Giới thiệu
 
-- 🖼️ Upload ảnh trực tiếp  
-- 🤖 AI phân tích khuôn mặt / outfit / mood  
-- 🎨 Sinh prompt Chibi theo style anime  
-- 🛠️ Hỗ trợ nhiều model Gemini  
-- 🚫 Không lộ API key  
-- 🌍 Triển khai nhanh, không cần DevOps  
+**Chibi Studio** là ứng dụng AI giúp bạn chuyển ảnh chân dung thành phong cách **Chibi Anime** cực kỳ đáng yêu.  
+Không cần skill Photoshop – upload ảnh, bấm nút, đợi vài giây là có kết quả.
+
+Ứng dụng được thiết kế để:
+
+- Dễ deploy trên shared hosting / Spaceship
+- Không lộ API key
+- Có thể nâng cấp thành SaaS bán credit sau này
+
+---
+
+## ✨ Tính năng nổi bật
+
+- 🖼️ Upload ảnh → AI phân tích khuôn mặt & phong cách
+- 🎨 Tạo prompt Chibi theo style anime
+- 🤝 Hỗ trợ nhiều model Gemini tuỳ mục đích
+- 🔐 Ẩn API key hoàn toàn phía server
+- 🧩 Tối ưu để scale thành dịch vụ thực chiến
 
 ---
 
 ## 🏗️ Tech Stack
 
-| Thành phần | Công nghệ |
-|-----------|-----------|
-| Frontend  | HTML, CSS, JavaScript |
-| AI Backend | Google Gemini API |
-| Proxy Server | PHP (Spaceship / cPanel) hoặc Serverless |
-| Deploy | Vercel / Cloudflare Pages / Shared Hosting |
-
+| Layer | Công nghệ |
+|------|-----------|
+| UI/UX | HTML, CSS, JavaScript |
+| AI Engine | Google Gemini API |
+| Proxy | PHP (Spaceship / cPanel) / Serverless |
+| Deploy | Vercel, Cloudflare Pages, Shared Hosting |
 ---
 
 ## ▶️ Chạy ứng dụng trên máy (Local)
@@ -201,3 +215,13 @@ Hỗ trợ nâng cấp bản thương mại → mở Issue để liên hệ.
 
 **MIT** – Tự do sử dụng, chỉnh sửa, thương mại hóa.
 
+## Tác Giả 
+<p align="center">
+  <a href="https://facebook.com/NguyenMinhLong160403" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/784602751421251606" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord" />
+  </a>
+</p>
