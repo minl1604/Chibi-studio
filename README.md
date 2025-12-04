@@ -11,7 +11,7 @@
 </p>
 
 ---
-
+# <h1 align="center"> Website demo : https://chibi.minlgne.xyz/</h1>
 ## 🧬 Giới thiệu
 
 **Chibi Studio** là ứng dụng AI giúp bạn chuyển ảnh chân dung thành phong cách **Chibi Anime** cực kỳ đáng yêu.  
